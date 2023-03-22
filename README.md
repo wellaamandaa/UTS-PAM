@@ -1,7 +1,7 @@
-# To-Do App
+# Aplikasi Dear Diary
 
-Sebuah aplikasi sederhana yang dapat digunakan untuk membuat list-list kegiatan yang ingin kita lakukan agar lebih terorganisir.
-
+adalah sebuah aplikasi sederhana untuk menyimpan berbagai cerita, catatan dan tulisan seseorang sehari hari. 
+Aplikasi ini bisa menambahkan, menghapus dan membuat cerita baru dengan mudah. 
 ## Package Expo
 
 Saya menngunakan API Expo Constants
@@ -19,4 +19,4 @@ npx expo install @react-native-async-storage/async-storage
 ```
 
 ## License
-Muhammad Rizky Fahreza Gusti - 120140071
+Wella Amanda - 120140057
