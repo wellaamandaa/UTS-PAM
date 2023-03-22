@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "To-DO",
+    "name": "DearDiary",
     "slug": "app-pam",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon1.png",
         "backgroundColor": "#284860"
       },
-      "package": "com.rzkyrezaa.apppam"
+      "package": "com.wellaa.apppam"
     },
     "web": {
       "favicon": "./assets/favicon.png"
