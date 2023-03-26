@@ -17,8 +17,8 @@ Dan API Expo AsyncStorage
 ```bash
 npx expo install @react-native-async-storage/async-storage
 ```
-![ss1](https://user-images.githubusercontent.com/103342778/227731183-48b07112-2cd5-46dd-ac47-4086a362c4f8.jpeg =100x)
 
+img src = "https://user-images.githubusercontent.com/103342778/227731183-48b07112-2cd5-46dd-ac47-4086a362c4f8.jpeg" width="150" height="280">
 
 
 
